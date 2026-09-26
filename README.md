@@ -12,7 +12,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UBC, apaixonado por t
 - 🤖 Entusiasta de **IA e automação** — já integrei APIs de IA em projetos reais
 - 🐍 Aprendendo e evoluindo em **Python** e **desenvolvimento web**
 - 🎮 Nas horas vagas: jogos, projetos criativos e sempre algo novo pra aprender
-- 📍 Poá, SP — Brasil
+- 📍 Itaquaquecetuba, SP — Brasil
 
 ---
 

@@ -36,15 +36,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UBC, apaixonado por t
 | [dados-simples.py](https://github.com/guilhermefreitas5612-hub/dados-simples.py) | Sistema de cadastro e validação de dados pessoais | Python |
 | 🔒 J.A.R.V.I.S *(em breve)* | Assistente de IA pessoal com 32 ferramentas, integração Groq API, controle de sistema, arquivos e hardware | Python + IA |
 
----
-
-## 📊 GitHub Stats
-
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermefreitas5612-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefreitas5612-hub&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-freitas-945330325/)
